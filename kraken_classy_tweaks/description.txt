@@ -1,0 +1,18 @@
+[h1]disclaimer:[/h1]
+This is a merge-mod, credit for the content goes to the original mod authors! As usual, if you're the author of an included mod and wish to have it removed, let me know and I'll do it asap!
+
+[h1]description:[/h1]
+This mod contains the following mods:
+[list]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=150938627]Added skills for engineer (v.2)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=136187813]Engineer Tweaks (v.4)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=136400164]Improved Engineer Summons[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=137690832]Outlander Rebalance (v.33)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=138492980]Tiered Passives (v.9)[/url]
+[/list]
+
+[h1]notes:[/h1]
+I'm not certain that all of the mods are working. I'm mostly worried about the outlander rework and the added engineer skills.
+
+[h1]final:[/h1]
+Credit for the background: [url=http://www.gotlgaming.com/news_entries/134536]here[/url]
