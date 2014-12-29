@@ -1,0 +1,29 @@
+material banditmat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend one one
+			texture_unit
+			{
+				texture cowled_ghost.png
+				colour_op modulate
+			}
+texture_unit
+			{
+				tex_coord_set 1
+				tex_Address_mode clamp
+				env_map cubic_normal
+				cubic_texture ../../monsters/ghost/highlight.dds combinedUVW
+				colour_op add
+			}
+
+		}
+	}
+}
+

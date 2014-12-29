@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "CHARACTERSmaledestro" Imagefile="media/ui/icons/characters/CHARACTERSmaledestro.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="destroiconmale_desc"           XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="destroiconhovermale_desc"      XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="destroiconselectedmale_desc"   XPos="128" YPos="128" Width="128" Height="128" />	
+</Imageset>

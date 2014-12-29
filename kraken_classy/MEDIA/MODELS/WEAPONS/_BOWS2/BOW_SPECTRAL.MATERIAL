@@ -1,0 +1,19 @@
+material banditbowghost
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.72549 0.72549 0.72549
+			diffuse 0.72549 0.72549 0.72549
+			specular 0 0 0 0
+			emissive 0.407843 0.407843 0.407843
+			scene_blend one one
+			texture_unit
+			{
+				texture bow02spectral.dds
+				colour_op modulate
+			}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "zzzdestroskills" Imagefile="media/ui/icons/skills/zzzdestroskills.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_slash"               XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_slash_gray"          XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_stampede"            XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_stampede_gray"       XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_chains"              XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_chains_gray"         XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_spectralecho"        XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_spectralecho_gray"   XPos="448" YPos="0" Width="64" Height="64" />
+	<Image Name="skillicon_soulrend"            XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_soulrend_gray"       XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_stomp"               XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_stomp_gray"          XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_quake"               XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_quake_gray"          XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_frostshield"         XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_frostshield_gray"    XPos="448" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_shadowarmor"         XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_shadowarmor_gray"    XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_entropic"            XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_entropic_gray"       XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_shadowbowman"        XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_shadowbowman_gray"   XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_thorns"              XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_thorns_gray"         XPos="448" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_devastate"           XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_devastate_gray"      XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_seismicburst"        XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_seismicburst_gray"   XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_spectraldecay"       XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_spectraldecay_gray"  XPos="320" YPos="192" Width="64" Height="64" />	
+</Imageset>

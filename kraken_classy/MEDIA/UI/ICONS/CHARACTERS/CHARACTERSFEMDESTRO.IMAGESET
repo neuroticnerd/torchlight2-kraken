@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "CHARACTERSfemdestro" Imagefile="media/ui/icons/characters/CHARACTERSfemdestro.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="destroiconfemale"           XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="destroiconhoverfemale"      XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="destroiconselectedfemale"   XPos="128" YPos="128" Width="128" Height="128" />	
+</Imageset>

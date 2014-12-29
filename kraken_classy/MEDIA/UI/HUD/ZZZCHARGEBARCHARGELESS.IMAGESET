@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "zzzchargebarchargeless" Imagefile="media/ui/hud/zzzchargebarchargeless.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zzzchargebarchargeless" XPos="773" YPos="901" Width="244" Height="69" />
+</Imageset>
