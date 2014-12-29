@@ -1,0 +1,24 @@
+material Monster_RootGolem_SB
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .5 .5 .5
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+			texture_unit
+			{
+				texture RootGolem_Boss.dds
+			}
+			texture_unit
+			{
+				colour_op add
+				texture RootGolem_Boss_Illum.dds
+			}
+		}
+	}
+}

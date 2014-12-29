@@ -1,0 +1,14 @@
+[h1]disclaimer:[/h1]
+This is a merge-mod, credit for the content goes to the original mod authors! As usual, if you're the author of an included mod and wish to have it removed, let me know and I'll do it asap!
+
+[h1]description:[/h1]
+This is a combo-pack which includes Awesome Classes Reborn as well as a few additional classes which are not found in that class pack. This mod contains the following mods:
+[list]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=169183701]Awesome Classes Reborn (v.131)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=169165159]WoW Style Paladin (v.952) (included manually for updates not found in ACR)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=140834118]Destroyer Class[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=178034786]Vanquisher Class[/url]
+[/list]
+
+[h1]notes:[/h1]
+There were a number of manually merged files [i](particularly for quest rewards)[/i] which I'll need to keep an eye on, however they shouldn't cause any problems.

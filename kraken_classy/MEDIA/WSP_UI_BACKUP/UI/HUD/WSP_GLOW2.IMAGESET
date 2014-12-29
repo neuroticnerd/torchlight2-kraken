@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "wsp_glow2.imageset" Imagefile="media/ui/hud/wsp_glow2.dds" NativeHorzRes="640" NativeVertRes="400" AutoScaled="false" >
+	<Image Name="glow2" XPos="2" YPos="0" Width="130" Height="70" />
+</Imageset>

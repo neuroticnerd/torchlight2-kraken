@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "preacher_chargebar" Imagefile="media/ui/hud/preacher_chargebar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="preacher_chargebar_base" XPos="1" YPos="1" Width="234" Height="52" />
+	<Image Name="preacher_chargebar_bar" XPos="1" YPos="55" Width="222" Height="14" />
+	<Image Name="preacher_chargebar_charge" XPos="1" YPos="71" Width="69" Height="28" />
+</Imageset>

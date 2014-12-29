@@ -1,0 +1,22 @@
+material BP
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.5 0.5 0.5
+			texture_unit
+			{
+				texture BOSS_Ordraake.png
+			}
+			texture_unit
+			{
+				texture BOSS_Ordraake_Illum.dds
+				colour_op add
+			}
+		}
+	}
+}

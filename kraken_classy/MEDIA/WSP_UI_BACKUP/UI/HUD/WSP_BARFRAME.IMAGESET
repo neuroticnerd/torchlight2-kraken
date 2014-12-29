@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "wsp_barframe.imageset" Imagefile="media/ui/hud/wsp_barframe.dds" NativeHorzRes="440" NativeVertRes="200" AutoScaled="true" >
+	<Image Name="barframe" XPos="1" YPos="1" Width="510" Height="400" />
+</Imageset>

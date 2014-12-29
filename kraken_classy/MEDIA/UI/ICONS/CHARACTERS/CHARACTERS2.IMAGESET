@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "characters2" Imagefile="media/ui/icons/characters/characters2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="redmageiconselectedmale" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="redmageiconselectedfemale" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="redmageiconmale" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="redmageiconhovermale" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="redmageiconhoverfemale" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="redmageiconfemale" XPos="128" YPos="256" Width="128" Height="128" />
+</Imageset>

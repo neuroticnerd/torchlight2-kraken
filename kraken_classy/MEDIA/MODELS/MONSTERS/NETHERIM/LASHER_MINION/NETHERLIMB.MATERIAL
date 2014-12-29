@@ -1,0 +1,37 @@
+material NetherLimb_multi/NetherLimb_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture NetherLimb.png
+			}
+		}
+	}
+}
+material NetherLimb_multi/NetherLimbCollar_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			lighting off
+			fog_override true none
+			scene_blend alpha_blend
+			texture_unit
+			{
+				texture NetherLimbCollar.png
+			}
+		}
+	}
+}

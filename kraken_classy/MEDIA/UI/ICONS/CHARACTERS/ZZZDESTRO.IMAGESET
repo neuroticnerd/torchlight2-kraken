@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "zzzdestro" Imagefile="media/ui/icons/characters/zzzdestro.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="destroiconmale"           XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="destroiconhovermale"      XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="destroiconselectedmale"   XPos="256" YPos="0" Width="128" Height="128" />	
+</Imageset>

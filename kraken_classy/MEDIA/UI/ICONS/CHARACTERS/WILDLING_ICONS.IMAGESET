@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "wildling_icons" Imagefile="media/ui/icons/characters/wildling_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="8606925622281307513_ignore_wildling_icons1" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons2" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons3" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons4" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons5" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons6" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons7" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons8" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="male_wildlingiconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="female_wildlingiconselected" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="male_wildlingicon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="male_wildlingiconhover" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="female_wildlingiconhover" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="female_wildlingicon" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons9" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="8606925622281307513_ignore_wildling_icons10" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

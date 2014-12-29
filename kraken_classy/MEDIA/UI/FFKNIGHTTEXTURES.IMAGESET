@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "FFKnightTextures" Imagefile="media/ui/hud/FFKnightTextures.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_dskilltabs_holy_rollover" XPos="1" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_holy_on" XPos="73" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_holy_off" XPos="145" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_dark_rollover" XPos="1" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_dark_on" XPos="73" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_dark_off" XPos="145" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_warrior_rollover" XPos="1" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_warrior_on" XPos="73" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_warrior_off" XPos="145" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dcharge_knight_bar" XPos="4" YPos="162" Width="212" Height="16" />
+	<Image Name="ig_dskillpanel_progressbar_three" XPos="1" YPos="193" Width="138" Height="16" />
+	<Image Name="ig_dskillpanel_blue_three" XPos="1" YPos="218" Width="152" Height="139" />
+	<Image Name="ig_dcharge_knight_overlay" XPos="1" YPos="373" Width="244" Height="69" />
+	<Image Name="ig_dcharge_knight_frame" XPos="2" YPos="470" Width="244" Height="69" />
+</Imageset>

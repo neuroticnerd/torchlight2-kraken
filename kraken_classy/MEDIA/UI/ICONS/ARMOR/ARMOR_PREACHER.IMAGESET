@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="armor_preacher" Imagefile="media/ui/icons/armor/armor_preacher.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_armor_preacher_guru_shoulders" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_pants" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_helmet" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_gloves" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_chest" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_boots" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_guru_belt" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_shoulders" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_pants" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_helmet" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_gloves" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_chest" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_boots" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_disciple_belt" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_shoulders1" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_pants1" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_helmet2" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_helmet1" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_gloves1" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_chest2" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_chest1" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_base_boots1" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_shoulders" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_pants" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_helmet" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_gloves" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_chest" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_boots" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_armor_preacher_anchorite_belt" XPos="257" YPos="193" Width="62" Height="62" />
+</Imageset>

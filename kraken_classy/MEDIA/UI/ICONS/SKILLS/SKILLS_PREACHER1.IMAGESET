@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "skills_preacher1" Imagefile="media/ui/icons/skills/skills_preacher1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="preacher_blessing" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_blazepunch_gray" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_blazepunch" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_benediction_gray" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_benediction" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_atonement_gray" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_atonement" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="preacher_air_prayer_gray" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="preacher_air_prayer" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="preacher_acuity_gray" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="preacher_acuity" XPos="199" YPos="67" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="jewelry_preacher" Imagefile="media/ui/icons/jewelry/jewelry_preacher.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_jewelry_preacher_guru_ring" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_jewelry_preacher_guru_necklace" XPos="65" YPos="1" Width="62" Height="62" />
+</Imageset>

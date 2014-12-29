@@ -1,0 +1,24 @@
+material wisp_mat_spectral
+{
+	technique
+	{
+		
+		pass
+		{
+			ambient 1.0 1.0 1.0
+			diffuse 1.0 1.0 1.0
+			specular 0 0 0 0
+			emissive 0 0 0
+			scene_blend colour_blend
+			lighting off
+			depth_write off
+			fog_override true none
+			texture_unit
+			{
+
+				texture wisp.dds
+				colour_op modulate
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="preacher_characters" Imagefile="media/ui/icons/characters/preachercharacters.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="preachericonselectedmale" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="preachericonselectedfemale" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="preachericonmale" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="preachericonhovermale" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="preachericonhoverfemale" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="preachericonfemale" XPos="128" YPos="128" Width="128" Height="128" />
+</Imageset>

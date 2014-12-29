@@ -1,0 +1,21 @@
+material 01_-_Default
+{
+
+	technique
+	{
+		pass
+		{
+
+			ambient 0.588235 0.588235 0.588235
+			diffuse 0.588235 0.588235 0.588235
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			texture_unit
+			{
+				texture vanq_trap_purple.png
+			}
+
+		}
+	}
+
+}

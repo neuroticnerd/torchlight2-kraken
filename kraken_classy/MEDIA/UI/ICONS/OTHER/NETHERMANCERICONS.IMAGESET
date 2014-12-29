@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NETHERMANCERICONS" Imagefile="media/ui/icons/other/nethermancericons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="nethermancer_selected" XPos="1" YPos="1" Width="128" Height="128" />
+	<Image Name="nethermancer_m_selected" XPos="131" YPos="1" Width="128" Height="128" />
+	<Image Name="nethermancer_m_hover" XPos="261" YPos="1" Width="128" Height="128" />
+	<Image Name="nethermancer_m" XPos="1" YPos="131" Width="128" Height="128" />
+	<Image Name="nethermancer_hover" XPos="131" YPos="131" Width="128" Height="128" />
+	<Image Name="nethermancer_2_selected" XPos="261" YPos="131" Width="128" Height="128" />
+	<Image Name="nethermancer_2_hover" XPos="1" YPos="261" Width="128" Height="128" />
+	<Image Name="nethermancer_2" XPos="131" YPos="261" Width="128" Height="128" />
+	<Image Name="nethermancer" XPos="261" YPos="261" Width="128" Height="128" />
+	<Image Name="skill_tab_plague_selected" XPos="391" YPos="1" Width="70" Height="50" />
+	<Image Name="skill_tab_plague_hover" XPos="391" YPos="53" Width="70" Height="50" />
+	<Image Name="skill_tab_plague" XPos="391" YPos="105" Width="70" Height="50" />
+	<Image Name="skill_tab_flesh_selected" XPos="391" YPos="157" Width="70" Height="50" />
+	<Image Name="skill_tab_flesh_hover" XPos="391" YPos="209" Width="70" Height="50" />
+	<Image Name="skill_tab_flesh" XPos="391" YPos="261" Width="70" Height="50" />
+	<Image Name="skill_tab_eldritch_selected" XPos="391" YPos="313" Width="70" Height="50" />
+	<Image Name="skill_tab_eldritch_hover" XPos="391" YPos="365" Width="70" Height="50" />
+	<Image Name="skill_tab_eldritch" XPos="1" YPos="391" Width="70" Height="50" />
+</Imageset>

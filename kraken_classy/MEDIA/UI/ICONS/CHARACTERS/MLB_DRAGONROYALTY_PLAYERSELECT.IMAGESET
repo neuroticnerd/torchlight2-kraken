@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "mlb_dragon_royalty" Imagefile="media/ui/icons/characters/MLB_DRAGONROYALTY_PLAYERSELECT.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mlb_dragon_royalty_m" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="mlb_dragon_royalty_mhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="mlb_dragon_royalty_mselected" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="mlb_dragon_royalty_f" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="mlb_dragon_royalty_fhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="mlb_dragon_royalty_fselected" XPos="256" YPos="128" Width="128" Height="128" />
+</Imageset>

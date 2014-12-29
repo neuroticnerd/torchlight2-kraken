@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="weapons_preacher" Imagefile="media/ui/icons/weapons/weapons_preacher.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_weapons_preacher_guru_staff" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>
