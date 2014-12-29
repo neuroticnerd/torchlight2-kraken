@@ -20,8 +20,8 @@
 	<Image Name="skillicon_flashoflight" XPos="199" YPos="133" Width="64" Height="64" />
 	<Image Name="skillicon_holylight_gray" XPos="265" YPos="133" Width="64" Height="64" />
 	<Image Name="skillicon_holylight" XPos="331" YPos="133" Width="64" Height="64" />
-	<Image Name="skillicon_retributionaura_gray" XPos="397" YPos="133" Width="64" Height="64" />
-	<Image Name="skillicon_retributionaura" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_sacredshield_gray" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_sacredshield" XPos="1" YPos="199" Width="64" Height="64" />
 	<Image Name="skillicon_devotionaura_gray" XPos="67" YPos="199" Width="64" Height="64" />
 	<Image Name="skillicon_devotionaura" XPos="133" YPos="199" Width="64" Height="64" />
 	<Image Name="skillicon_avengingwrath_gray" XPos="199" YPos="199" Width="64" Height="64" />
@@ -42,11 +42,11 @@
 	<Image Name="skillicon_wordofglory" XPos="265" YPos="331" Width="64" Height="64" />
 	<Image Name="skillicon_divineprotection_gray" XPos="331" YPos="331" Width="64" Height="64" />
 	<Image Name="skillicon_divineprotection" XPos="397" YPos="331" Width="64" Height="64" />
-	<Image Name="skillicon_exploding_glaive_gray" XPos="1" YPos="397" Width="64" Height="64" />
-	<Image Name="skillicon_exploding_glaive" XPos="67" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_guardedbythelight_gray" XPos="1" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_guardedbythelight" XPos="67" YPos="397" Width="64" Height="64" />
 	<Image Name="skillicon_crusader_strike_gray" XPos="133" YPos="397" Width="64" Height="64" />
 	<Image Name="skillicon_crusader_strike" XPos="199" YPos="397" Width="64" Height="64" />
-	<Image Name="skillicon_emberquake_gray" XPos="265" YPos="397" Width="64" Height="64" />
-	<Image Name="skillicon_emberquake" XPos="331" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_lightofdawn_gray" XPos="265" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_lightofdawn" XPos="331" YPos="397" Width="64" Height="64" />
 	<Image Name="skillicon_embermageavatar_gray" XPos="397" YPos="397" Width="64" Height="64" />
 </Imageset>

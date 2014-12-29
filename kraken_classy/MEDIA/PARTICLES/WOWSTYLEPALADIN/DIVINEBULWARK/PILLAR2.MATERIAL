@@ -1,0 +1,72 @@
+material ice_pillar_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .4 .4 .4
+			scene_blend alpha_blend
+			alpha_rejection greater 5
+			
+			texture_unit
+			{
+				texture ice_pillar.PNG
+			}
+			texture_unit
+			{
+				texture ice_pillar_glow.PNG
+				colour_op add
+			}
+			
+
+
+		}
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive .4 .4 .4
+			scene_blend alpha_blend
+			alpha_rejection greater 5
+
+			
+			texture_unit
+			{
+				texture ice_pillar_env.PNG
+				
+				
+			}
+			texture_unit
+			{
+				texture clouds.dds
+				scale 1.0 1.0
+				scroll_anim 0.25 .25
+				
+				colour_op add
+			}
+			texture_unit
+			{
+				texture clouds.dds
+				scale 1.0 1.0
+				scroll_anim -0.2 -.3
+				
+				colour_op add
+			}
+
+
+		}
+
+	}
+}
+
+
+
+			
+
+
+
+
