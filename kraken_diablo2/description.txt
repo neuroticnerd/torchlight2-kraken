@@ -1,0 +1,14 @@
+[b]preface:[/b] this is a merge-mod, credit for the content goes to the original mod authors!
+
+The idea of this mod is to create add some throwbacks to Diablo 2 and a darker UI. While the Evil UI isn't exactly D2 per say, it fits the theme extremely well and goes with the art style of T2. This mod contains the following mods:
+[list]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=138527119]D2-Like Font (v.4)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=181312680]Diablo 2 Music Mod[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=138949976]Evil UI Grittier Edition + Diablo 2 Orbs (v.6)[/url]
+    [*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=136160521]Diablo 2 Skill Tree Levels[/url]
+[/list]
+[b]!NOTES!:[/b]
+[list]
+    [*] you must click on the link above for the music mod and manually download the music files for them to actuall appear in game! [i](this is due to packaging issues with GUTS editor)[/i]
+    [*] if you use another mod that replaces font [i](such as [url=http://steamcommunity.com/sharedfiles/filedetails/?id=138228035]Torchlight 2 Essentials[/url])[/i], then this mod must have a higher order in the mod loader if you want the diablo font to take effect!
+[/list]
