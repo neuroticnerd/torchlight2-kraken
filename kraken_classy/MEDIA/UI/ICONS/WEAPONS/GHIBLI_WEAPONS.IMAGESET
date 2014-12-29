@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "GHIBLI_WEAPONS" Imagefile="mods/Ghibli Homage Pack/media/UI/ICONS/WEAPONS/weaponsghibli.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="weapon_ghibli_san_spear" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="weapon_ghibli_san_knife" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="weapon_ghibli_ashitaka_sword" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="weapon_ghibli_nausicaa_sword" XPos="193" YPos="1" Width="62" Height="62" />
+</Imageset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "hud" Imagefile="media/ui/hud/preacher_ingametexturesheets.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_skilltabs_wisdom_rollover" XPos="1" YPos="1" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_wisdom_on" XPos="73" YPos="1" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_wisdom_off" XPos="145" YPos="1" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_faith_rollover" XPos="1" YPos="53" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_faith_on" XPos="73" YPos="53" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_faith_off" XPos="145" YPos="53" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_corruption_rollover" XPos="1" YPos="105" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_corruption_on" XPos="73" YPos="105" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_corruption_off" XPos="145" YPos="105" Width="70" Height="50" />
+</Imageset>

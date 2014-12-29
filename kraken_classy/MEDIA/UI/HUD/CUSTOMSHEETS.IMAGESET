@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "customsheets" Imagefile="media/ui/hud/customsheets.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_skilltabs_black_rollover" XPos="931" YPos="622" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_black_on" XPos="484" YPos="626" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_black_off" XPos="556" YPos="626" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_quick_rollover" XPos="312" YPos="681" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_quick_on" XPos="384" YPos="681" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_quick_off" XPos="715" YPos="726" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_white_rollover" XPos="289" YPos="732" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_white_on" XPos="361" YPos="732" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_white_off" XPos="640" YPos="732" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_green_rollover" XPos="715" YPos="778" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_green_on" XPos="787" YPos="778" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_green_off" XPos="859" YPos="778" Width="70" Height="50" />
+</Imageset>

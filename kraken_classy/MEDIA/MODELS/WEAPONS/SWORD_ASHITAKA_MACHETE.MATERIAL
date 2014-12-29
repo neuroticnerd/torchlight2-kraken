@@ -1,0 +1,19 @@
+material ashitaka_sword_mat
+{
+        technique
+        {
+                pass
+                {
+                        ambient 0.588000 0.588000 0.588000
+                        diffuse 0.588000 0.588000 0.588000
+                        specular 0.000000 0.000000 0.000000 0
+                        emissive 0.407843 0.407843 0.407843
+                        scene_blend alpha_blend
+			alpha_rejection greater 0
+			texture_unit
+                        {
+                                texture SWORD_ashitaka_machete.dds
+                        }
+                }
+        }
+}

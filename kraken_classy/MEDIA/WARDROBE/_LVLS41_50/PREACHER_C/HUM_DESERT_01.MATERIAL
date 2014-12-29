@@ -1,0 +1,426 @@
+material Hum_F_desert/Chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/ExChest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Belt
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Thighs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/MidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/ExMidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Calf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/ExCalf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Foot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/ExFoot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/MidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/EXMidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Forearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/ExForearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Hand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/EXHand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Pauldrons
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_desert_01_extra.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Jaw
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/JawSide
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Hair
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Scalp
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Ears
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material Hum_F_desert/Guild
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}

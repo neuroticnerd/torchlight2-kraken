@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "gyt_wskills2" Imagefile="media/ui/icons/skills/gyt_wskills2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_gvengeance" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_gvengeance_grey" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_faebolt" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_faebolt_grey" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_daughters" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_daughters_grey" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_blankz_1" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_fairwind" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_fairwind_grey" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_pixie" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_pixie_grey" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_bloom" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_bloom_grey" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_blankz_2" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_doom" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_doom_grey" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_dismiss" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_dismiss_grey" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_gblessing" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_gblessing_grey" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_blankz_3" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_wildarrows" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_wildarrows_grey" XPos="67" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_puissance" XPos="133" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_puissance_grey" XPos="199" YPos="199" Width="64" Height="64" />
+</Imageset>

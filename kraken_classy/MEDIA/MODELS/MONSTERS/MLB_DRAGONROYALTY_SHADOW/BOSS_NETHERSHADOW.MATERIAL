@@ -1,0 +1,23 @@
+material boss_nethershadow_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235
+			diffuse 0.588235 0.588235 0.588235
+			specular 0 0 0 0
+			emissive 1 1 1
+			scene_blend alpha_blend
+			alpha_rejection greater 50
+			texture_unit
+			{
+				texture BOSS_nethershadow_dark.dds
+			}
+
+
+		}
+		
+
+	}
+}

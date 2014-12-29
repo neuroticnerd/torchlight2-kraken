@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "spellsred" Imagefile="media/ui/icons/spells/spellsred.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="spell_death" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_gravity_bomb" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_poison" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_dia" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_quake" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_teleport" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_regen" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="spell_blaze" XPos="463" YPos="1" Width="64" Height="64" />
+</Imageset>

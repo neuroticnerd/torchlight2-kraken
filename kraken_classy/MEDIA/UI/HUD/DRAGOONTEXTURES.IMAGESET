@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DragoonTextures" Imagefile="media/ui/hud/DragoonTextures.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_dskilltabs_dragon_rollover" XPos="1" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_dragon_on" XPos="73" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_dragon_off" XPos="145" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_mystic_rollover" XPos="1" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_mystic_on" XPos="73" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_mystic_off" XPos="145" YPos="51" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_spear_rollover" XPos="1" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_spear_on" XPos="73" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dskilltabs_spear_off" XPos="145" YPos="103" Width="70" Height="50" />
+	<Image Name="ig_dcharge_dragoon_bar" XPos="4" YPos="162" Width="212" Height="16" />
+	<Image Name="ig_dskillpanel_progressbar_three" XPos="1" YPos="193" Width="138" Height="16" />
+	<Image Name="ig_dskillpanel_blue_three" XPos="1" YPos="218" Width="152" Height="139" />
+	<Image Name="ig_dcharge_dragoon_overlay" XPos="1" YPos="373" Width="244" Height="69" />
+	<Image Name="ig_dcharge_dragoon_frame" XPos="2" YPos="470" Width="244" Height="69" />
+</Imageset>
